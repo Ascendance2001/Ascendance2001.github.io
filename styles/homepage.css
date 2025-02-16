@@ -31,3 +31,24 @@
         background-position: 100% 0;
     }
 }
+
+
+body {
+    background-color: rgb(24, 24, 37);
+    color: white;
+
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.projectPreviewImage {
+    float: left;
+    margin-top: 20px;
+}
+
+
+footer {
+    color: rgb(41, 63, 109);
+    text-align: center;
+    margin-top: 50px;
+}
